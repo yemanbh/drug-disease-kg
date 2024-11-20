@@ -10,7 +10,7 @@ This notebook contains scripts to predict if a drug treats a disease using a kno
 Conda create -n py310-torch python=3.10
 conda activate  py310-torch
 ```
-### 2. Install Latest PyTorch
+### 2. Install latest PyTorch library
 ```
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
 
