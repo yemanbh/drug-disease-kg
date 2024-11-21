@@ -34,6 +34,6 @@ Figure 1: Confusion matrix of classifier trained using undirected graph
 
 Figure 2: Confusion matrix of classifier trained using directed graph
 
-Directed graph showed slightly better result compared with undirected graph.
+Directed graph showed better result compared with undirected graph.
 
 
